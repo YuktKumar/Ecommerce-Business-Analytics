@@ -80,10 +80,6 @@ E-CommerceProject/
 │   └── ecommerce_analytics_dashboard.pbix
 ├── excel/
 │   └── monthly_revenue_pivot.png
-├── screenshots/
-│   ├── sales_overview.png
-│   ├── customer_analysis.png
-│   └── delivery_satisfaction.png
 └── README.md
 ```
 
@@ -92,14 +88,6 @@ E-CommerceProject/
 **Page 1 — Sales Overview:** Monthly revenue trend, top product categories, revenue by state
 **Page 2 — Customer Analysis:** RFM-based customer segmentation
 **Page 3 — Delivery & Satisfaction:** Review scores vs. delivery time, order volume by delivery speed
-
-*(Add your screenshots here once uploaded to the `screenshots/` folder)*
-
-```
-![Sales Overview](screenshots/sales_overview.png)
-![Customer Analysis](screenshots/customer_analysis.png)
-![Delivery & Satisfaction](screenshots/delivery_satisfaction.png)
-```
 
 ## 🧠 Methodology
 
@@ -118,8 +106,8 @@ E-CommerceProject/
 
 ## 👤 Author
 
-*[Your Name]*
-*[LinkedIn] · [Email] · [Portfolio]*
+*[Yukt kumar]*
+*[[LinkedIn](https://www.linkedin.com/in/yukt-kumar-7934a528b/)] · [yuktkumar7@gmail.com] 
 
 ---
 *This project was built as part of my transition into a Data Analyst role, demonstrating end-to-end analytics skills across Python, SQL, Excel, and Power BI.*
