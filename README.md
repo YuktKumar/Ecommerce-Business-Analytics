@@ -80,6 +80,10 @@ E-CommerceProject/
 │   └── ecommerce_analytics_dashboard.pbix
 ├── excel/
 │   └── monthly_revenue_pivot.png
+├── screenshots/
+│   ├── sales_overview.png
+│   ├── customer_analysis.png
+│   └── delivery_satisfaction.png
 └── README.md
 ```
 
@@ -88,6 +92,10 @@ E-CommerceProject/
 **Page 1 — Sales Overview:** Monthly revenue trend, top product categories, revenue by state
 **Page 2 — Customer Analysis:** RFM-based customer segmentation
 **Page 3 — Delivery & Satisfaction:** Review scores vs. delivery time, order volume by delivery speed
+
+![Sales Overview](sales_overview.png)
+![Customer Analysis](customer_analysis.png)
+![Delivery & Satisfaction](delivery_satisfaction.png)
 
 ## 🧠 Methodology
 
